@@ -2,8 +2,8 @@
 ## About me
 #### My name is Dmytro Anchukov, I study QA and looking for first job or trainee offer.
 ## Courses
-#### SQL Basics from Mate Academy
-#### 6-day HTML/CSS Marathon from GoIT
+* SQL Basics from Mate Academy
+* 6-day HTML/CSS Marathon from GoIT
 #### Automated QA Dare IT Challenge
 ## Tech skills
 #### SQL
